@@ -1,0 +1,4 @@
+ID;Nombre del cliente;Calle;Ciudad;Provincia;Código postal;País;Teléfono;Correo electrónico;Cliente;Proveedor
+C25;Belen Camino;Pastoriza;Santiago;A Coruña;15704;España;657221250;x@gmail.com;1;0
+C26;Sandra Camino;Sol;Alcala;Madrid;28080;España;615895685;z@gmail.com;0;1
+C27;Puri Feros;Florida;Vigo;Pontevedra;36210;España;986254252;h@gmail.com;1;0
